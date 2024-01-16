@@ -1,7 +1,7 @@
-# Development of Machine Learning based Mental, Cardiovascular and Respiratory Environmental-Clinical Risk Scores in European Children
+# Machine Learning based Mental, Cardiovascular and Respiratory Environmental-Clinical Risk Scores in European Children
 
 ## Overview
-In this repository you will find the code used in our paper "Development of Machine Learning based Mental, Cardiovascular and Respiratory Environmental-Clinical Risk Scores in European Children" publised in Nature Communications Medicine (2024).
+In this repository you will find the code used in our paper "Machine Learning based Mental, Cardiovascular and Respiratory Environmental-Clinical Risk Scores in European Children" publised in Nature Communications Medicine (2024).
 
 ## Repository Structure
 This paper computed Environmental-Clinical risk scores (ECRS) for three main outcomes: p-factor, metabolic syndrome and lung function. You will find a folder corresponding to each outcome in which the corresponding ECRS using different methods.
